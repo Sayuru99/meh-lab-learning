@@ -19,7 +19,7 @@
               }
             ]
           },
-          "image_url": "",
+          "image_url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1619250680290/l6Y_qPlOx.gif",
           "example": ""
         },
         {
@@ -43,7 +43,7 @@
               }
             ]
           },
-          "image_url": "",
+          "image_url": "https://miro.medium.com/max/1400/0*C1XNgzuD52j88SMF.gif",
           "example": ""
         },
         {
@@ -58,7 +58,7 @@
               }
             ]
           },
-          "image_url": "",
+          "image_url": "https://linuxhint.com/wp-content/uploads/2021/10/image1.gif",
           "example": "<html><head><title>My Website</title>/head><body><h1>Hello, world!</h1><script>alert('Hello, world!');</script></body></html>"
         }
       ]
